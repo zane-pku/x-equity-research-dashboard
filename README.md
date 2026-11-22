@@ -2,8 +2,15 @@
 
 面向买方投研的 X 信息看板。按主题整理八个账号的帖子，结合美股行情查看市场变化，并将值得跟踪的线索挂到投资假设上。
 
-**[看板入口 · index.html](./index.html)**  
-将项目下载到本机后，用浏览器打开根目录的 `index.html`。页面内置归档，浏览、筛选和导出日报可直接使用。
+**[直接打开在线投研看板](https://zane-pku.github.io/x-equity-research-dashboard/)**
+
+在线版可直接浏览、筛选和导出日报。也可下载项目，用浏览器打开根目录的 [index.html](./index.html)。
+
+## 界面预览
+
+[![市场与要闻看板](./docs/screenshots/overview.png)](https://zane-pku.github.io/x-equity-research-dashboard/)
+
+[主题趋势](./docs/screenshots/themes.png) · [来源覆盖](./docs/screenshots/sources.png)
 
 ## 项目文件
 
